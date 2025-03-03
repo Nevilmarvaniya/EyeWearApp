@@ -1,0 +1,22 @@
+// eslint-disable-next-line no-undef
+export default colors = {
+    white: "#ffffff",
+    white1: "#FBFBFB",
+    modalBackground : "rgba(0,0,0,0.4)",
+    red : "#E90000",
+    gray : "#999999",
+    gray1: "#887E7E",
+    gray2: "#635C5C",
+    gray3: "#ECE9EC",
+    gray4: "#D9D9D9",
+    gray5: "#F7F7F7",
+    black : "#000000",
+    black1 : "#1A3442",
+    black2: "#333333",
+    blue: "#367CFE",
+    pink: "#F89AEE",
+    lightBlue: "#9BBEFD33",
+    green: "#34A87E",
+    green1: "#198754",
+    yellow: "#ffc107",
+}

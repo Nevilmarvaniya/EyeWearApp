@@ -1,0 +1,58 @@
+export const addressData = [
+    {
+        id : 0,
+        name : "Nevil marvaniya",
+        number : "9106104906",
+        addressType : "Home",
+        blackNumber : "Z-603",
+        appartmentName : "Virsavarkar height-1",
+        address1  :"Opp. ambalal petrol pump",
+        address2 : "Gota-ognaj road",
+        city : "Ahmedabad",
+        state : "Gujarat",
+        pincode : "380056",
+        country : "India"
+    },
+    {
+        id : 1,
+        name : "Nevil marvaniya",
+        number : "9106104906",
+        addressType : "Home",
+        blackNumber : "Z-603",
+        appartmentName : "Virsavarkar height-1",
+        address1  :"Opp. ambalal petrol pump",
+        address2 : "Gota-ognaj road",
+        city : "Ahmedabad",
+        state : "Gujarat",
+        pincode : "380056",
+        country : "India"
+    },
+    {
+        id : 2,
+        name : "Nevil marvaniya",
+        number : "9106104906",
+        addressType : "Home",
+        blackNumber : "Z-603",
+        appartmentName : "Virsavarkar height-1",
+        address1  :"Opp. ambalal petrol pump",
+        address2 : "Gota-ognaj road",
+        city : "Ahmedabad",
+        state : "Gujarat",
+        pincode : "380056",
+        country : "India"
+    },
+    {
+        id : 3,
+        name : "Nevil marvaniya",
+        number : "9106104906",
+        addressType : "Home",
+        blackNumber : "Z-603",
+        appartmentName : "Virsavarkar height-1",
+        address1  :"Opp. ambalal petrol pump",
+        address2 : "Gota-ognaj road",
+        city : "Ahmedabad",
+        state : "Gujarat",
+        pincode : "380056",
+        country : "India"
+    },
+]
